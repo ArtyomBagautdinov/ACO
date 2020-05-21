@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Эдуард\source\repos\ACO\ACO\main.cpp(23,21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Эдуард\source\repos\ACO\ACO\main.cpp(37,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Эдуард\source\repos\ACO\ACO\main.cpp(71,47): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Эдуард\source\repos\ACO\ACO\main.cpp(86,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Эдуард\source\repos\ACO\ACO\main.cpp(103,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ACO.vcxproj -> C:\Users\Эдуард\source\repos\ACO\Debug\ACO.exe
